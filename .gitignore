@@ -33,3 +33,5 @@ hagezi-dns-*.txt
 rpz/tif.txt
 domains/
 hosts/
+config.bat
+node_modules
